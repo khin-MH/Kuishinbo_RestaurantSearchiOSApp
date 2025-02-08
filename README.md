@@ -15,7 +15,7 @@ KUISHINBO
 - レストラン検索ではキーワード検索だけでなく、デフォルトでおすすめの近隣レストランを表示。
 
 ## 該当プロジェクトのリポジトリ URL
-[GitHub リポジトリ](https://github.com/khin-MH/Kuishinbo_RestaurantSearchiOSApp.git)
+[GitHub リポジトリ (課題ソースコード)](https://github.com/khin-MH/Kuishinbo_RestaurantSearchiOSApp.git)
 
 ## 開発環境
 - **開発環境**: Xcode 15.4
